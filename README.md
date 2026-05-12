@@ -1,7 +1,8 @@
 #PCDEXTER V2.0 | The first Syrian-made professional Windows optimization suite. Maximize FPS, reduce latency, and revive low-end PCs with Beast &amp; Potato modes. 🚀🇸🇾
 # 🛠️ PCDEXTER V2.0 | Advanced Windows Optimization Suite
 **The Ultimate Performance Framework - Developed by NCH TECHNOLOGY**
-
+https://pcdexter.github.io/en/
+https://pcdexter.github.io/ar/
 ---
 
 ## 📖 Introduction
@@ -69,5 +70,6 @@ Our goal is for **PCDEXTER** to be an honorable icon for the Syrian and Arabic t
 
 ## ⚖️ License
 Distributed under the **MIT License**. See `LICENSE` for more information.
-
+https://pcdexter.github.io/en/
+https://pcdexter.github.io/ar/
 **Built with Precision in Syria | Developed by NCH TECHNOLOGY**
